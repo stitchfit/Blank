@@ -1,2 +1,2 @@
-# 3D bouncing ball
+# This project is empty for now 
 CSS Animation
